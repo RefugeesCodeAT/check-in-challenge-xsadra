@@ -1,0 +1,3 @@
+hadi,0
+nana,0
+sadra,1
